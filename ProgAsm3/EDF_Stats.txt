@@ -1,0 +1,7 @@
+Average Waiting Time: 31.5
+Total Number of Processes: 140
+Total Number of Deadline Misses: 47
+Total Number of Completed Processes Processes: 93
+Task ID: 1 Average Waiting Time: 31.9
+Task ID: 2 Average Waiting Time: 32.5
+Task ID: 3 Average Waiting Time: 30.3

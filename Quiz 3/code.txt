@@ -1,0 +1,43 @@
+for (i = 0; i < n; i++)
+{
+	for(j = 0; j < n; j++)
+	{
+		if(finish[j] == false)
+		{
+			tmp = true
+			for(k = 0; k < m; k++)
+			{
+				if(need[j][k] > work[k])
+				{
+					tmp = false;
+				}
+			}
+			if(tmp == true)
+			{
+				finish[j] = true;
+				for(a = 0; a < m; a++)
+				{
+					work[a] += work[j][a]
+				}
+			}
+		}
+	}	
+}
+
+transaction(Account from, Account to, int amount)
+{
+	mutex lock1, lock2;
+	mutex l3;
+	l3 = get_lock2(from, to);
+	acquire(l3);
+	lock1 = get_lock(from);
+	lock2 = get_lock(to);
+	acquire(lock1);
+	acquire(lock2);
+	withdraw(from, amount);
+	deposit(to, amount);
+	release(l3);
+	release(lock2);
+	release(lock1);
+
+}

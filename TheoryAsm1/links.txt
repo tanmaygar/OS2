@@ -1,0 +1,6 @@
+https://github.com/Puneet2000/Semester-IV/blob/master/OS%20II/TA/Solution-cs17btech11029.pdf
+https://stackoverflow.com/questions/71140753/writing-a-terminating-atomic-increment-function
+https://stackoverflow.com/questions/64879112/silberschatz-atomic-increment-clarification
+https://www.geeksforgeeks.org/readers-writers-problem-writers-preference-solution/?ref=rp
+https://www.internalpointers.com/post/lock-free-multithreading-atomic-operations
+https://arxiv.org/ftp/arxiv/papers/1309/1309.4507.pdf#:~:text=A%20classical%20Reader%2DWriter%20Problem,can%20access%20the%20critical%20area

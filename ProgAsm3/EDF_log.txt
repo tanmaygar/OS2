@@ -1,0 +1,449 @@
+Task ID:1 Process Time: 20 Process Period: 80 Number of Repeats: 50
+Task ID:2 Process Time: 30 Process Period: 50 Number of Repeats: 40
+Task ID:3 Process Time: 25 Process Period: 60 Number of Repeats: 50
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 0
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 0
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 0
+Task ID: 2 started at time: 0
+Task ID: 2 completed at time: 30
+Task ID: 3 started at time: 31
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 50
+Task ID: 3 completed at time: 55
+Task ID: 1 started at time: 56
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 60
+Task ID: 1 completed at time: 75
+Task ID: 2 started at time: 76
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 80
+Task ID: 2 missed deadline at time: 100
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 100
+Task ID: 3 started at time: 101
+Task ID: 3 missed deadline at time: 120
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 120
+Task ID: 2 started at time: 121
+Task ID: 2 completed at time: 150
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 150
+Task ID: 1 started at time: 151
+Task ID: 1 missed deadline at time: 160
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 160
+Task ID: 3 started at time: 161
+Task ID: 3 missed deadline at time: 180
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 180
+Task ID: 2 started at time: 181
+Task ID: 2 missed deadline at time: 200
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 200
+Task ID: 1 started at time: 201
+Task ID: 1 completed at time: 220
+Task ID: 3 started at time: 221
+Task ID: 3 missed deadline at time: 240
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 240
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 240
+Task ID: 2 started at time: 241
+Task ID: 2 missed deadline at time: 250
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 250
+Task ID: 3 started at time: 251
+Task ID: 3 completed at time: 275
+Task ID: 2 started at time: 276
+Task ID: 2 missed deadline at time: 300
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 300
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 300
+Task ID: 1 started at time: 301
+Task ID: 1 completed at time: 320
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 320
+Task ID: 2 started at time: 321
+Task ID: 2 completed at time: 350
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 350
+Task ID: 3 started at time: 351
+Task ID: 3 missed deadline at time: 360
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 360
+Task ID: 2 started at time: 361
+Task ID: 2 completed at time: 390
+Task ID: 1 started at time: 391
+Task ID: 1 missed deadline at time: 400
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 400
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 400
+Task ID: 3 started at time: 401
+Task ID: 3 missed deadline at time: 420
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 420
+Task ID: 2 started at time: 421
+Task ID: 2 completed at time: 450
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 450
+Task ID: 1 started at time: 451
+Task ID: 1 completed at time: 470
+Task ID: 3 started at time: 471
+Task ID: 3 missed deadline at time: 480
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 480
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 480
+Task ID: 2 started at time: 481
+Task ID: 2 missed deadline at time: 500
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 500
+Task ID: 3 started at time: 501
+Task ID: 3 completed at time: 525
+Task ID: 2 started at time: 526
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 540
+Task ID: 2 missed deadline at time: 550
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 550
+Task ID: 1 started at time: 551
+Task ID: 1 missed deadline at time: 560
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 560
+Task ID: 3 started at time: 561
+Task ID: 3 completed at time: 585
+Task ID: 2 started at time: 586
+Task ID: 2 missed deadline at time: 600
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 600
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 600
+Task ID: 1 started at time: 601
+Task ID: 1 completed at time: 620
+Task ID: 2 started at time: 621
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 640
+Task ID: 2 completed at time: 650
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 650
+Task ID: 3 started at time: 651
+Task ID: 3 missed deadline at time: 660
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 660
+Task ID: 2 started at time: 661
+Task ID: 2 completed at time: 690
+Task ID: 1 started at time: 691
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 700
+Task ID: 1 completed at time: 710
+Task ID: 3 started at time: 711
+Task ID: 3 missed deadline at time: 720
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 720
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 720
+Task ID: 2 started at time: 721
+Task ID: 2 completed at time: 750
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 750
+Task ID: 3 started at time: 751
+Task ID: 3 completed at time: 775
+Task ID: 2 started at time: 776
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 780
+Task ID: 1 missed deadline at time: 800
+Task ID: 2 missed deadline at time: 800
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 800
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 800
+Task ID: 3 started at time: 801
+Task ID: 3 completed at time: 825
+Task ID: 2 started at time: 826
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 840
+Task ID: 2 missed deadline at time: 850
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 850
+Task ID: 1 started at time: 851
+Task ID: 1 completed at time: 870
+Task ID: 3 started at time: 871
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 880
+Task ID: 3 completed at time: 895
+Task ID: 2 started at time: 896
+Task ID: 2 missed deadline at time: 900
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 900
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 900
+Task ID: 2 started at time: 901
+Task ID: 2 completed at time: 930
+Task ID: 1 started at time: 931
+Task ID: 1 completed at time: 950
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 950
+Task ID: 3 started at time: 951
+Task ID: 3 missed deadline at time: 960
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 960
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 960
+Task ID: 2 started at time: 961
+Task ID: 2 completed at time: 990
+Task ID: 3 started at time: 991
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 1000
+Task ID: 3 completed at time: 1015
+Task ID: 1 started at time: 1016
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 1020
+Task ID: 1 completed at time: 1035
+Task ID: 2 started at time: 1036
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 1040
+Task ID: 2 missed deadline at time: 1050
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 1050
+Task ID: 3 started at time: 1051
+Task ID: 3 completed at time: 1075
+Task ID: 2 started at time: 1076
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 1080
+Task ID: 2 missed deadline at time: 1100
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 1100
+Task ID: 1 started at time: 1101
+Task ID: 1 completed at time: 1120
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 1120
+Task ID: 3 started at time: 1121
+Task ID: 3 missed deadline at time: 1140
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 1140
+Task ID: 2 started at time: 1141
+Task ID: 2 missed deadline at time: 1150
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 1150
+Task ID: 1 started at time: 1151
+Task ID: 1 completed at time: 1170
+Task ID: 3 started at time: 1171
+Task ID: 3 completed at time: 1195
+Task ID: 2 started at time: 1196
+Task ID: 2 missed deadline at time: 1200
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 1200
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 1200
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 1200
+Task ID: 2 started at time: 1201
+Task ID: 2 completed at time: 1230
+Task ID: 3 started at time: 1231
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 1250
+Task ID: 3 completed at time: 1255
+Task ID: 1 started at time: 1256
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 1260
+Task ID: 1 completed at time: 1275
+Task ID: 2 started at time: 1276
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 1280
+Task ID: 2 missed deadline at time: 1300
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 1300
+Task ID: 3 started at time: 1301
+Task ID: 3 missed deadline at time: 1320
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 1320
+Task ID: 2 started at time: 1321
+Task ID: 2 completed at time: 1350
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 1350
+Task ID: 1 started at time: 1351
+Task ID: 1 missed deadline at time: 1360
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 1360
+Task ID: 3 started at time: 1361
+Task ID: 3 missed deadline at time: 1380
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 1380
+Task ID: 2 started at time: 1381
+Task ID: 2 missed deadline at time: 1400
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 1400
+Task ID: 1 started at time: 1401
+Task ID: 1 completed at time: 1420
+Task ID: 3 started at time: 1421
+Task ID: 3 missed deadline at time: 1440
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 1440
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 1440
+Task ID: 2 started at time: 1441
+Task ID: 2 missed deadline at time: 1450
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 1450
+Task ID: 2 started at time: 1451
+Task ID: 2 completed at time: 1480
+Task ID: 3 started at time: 1481
+Task ID: 3 missed deadline at time: 1500
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 1500
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 1500
+Task ID: 1 started at time: 1501
+Task ID: 1 completed at time: 1520
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 1520
+Task ID: 2 started at time: 1521
+Task ID: 2 completed at time: 1550
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 1550
+Task ID: 3 started at time: 1551
+Task ID: 3 missed deadline at time: 1560
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 1560
+Task ID: 2 started at time: 1561
+Task ID: 2 completed at time: 1590
+Task ID: 1 started at time: 1591
+Task ID: 1 missed deadline at time: 1600
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 1600
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 1600
+Task ID: 3 started at time: 1601
+Task ID: 3 missed deadline at time: 1620
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 1620
+Task ID: 2 started at time: 1621
+Task ID: 2 completed at time: 1650
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 1650
+Task ID: 1 started at time: 1651
+Task ID: 1 completed at time: 1670
+Task ID: 3 started at time: 1671
+Task ID: 3 missed deadline at time: 1680
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 1680
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 1680
+Task ID: 2 started at time: 1681
+Task ID: 2 missed deadline at time: 1700
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 1700
+Task ID: 3 started at time: 1701
+Task ID: 3 completed at time: 1725
+Task ID: 2 started at time: 1726
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 1740
+Task ID: 2 missed deadline at time: 1750
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 1750
+Task ID: 1 started at time: 1751
+Task ID: 1 missed deadline at time: 1760
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 1760
+Task ID: 3 started at time: 1761
+Task ID: 3 completed at time: 1785
+Task ID: 2 started at time: 1786
+Task ID: 2 missed deadline at time: 1800
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 1800
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 1800
+Task ID: 1 started at time: 1801
+Task ID: 1 completed at time: 1820
+Task ID: 2 started at time: 1821
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 1840
+Task ID: 2 completed at time: 1850
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 1850
+Task ID: 3 started at time: 1851
+Task ID: 3 missed deadline at time: 1860
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 1860
+Task ID: 2 started at time: 1861
+Task ID: 2 completed at time: 1890
+Task ID: 1 started at time: 1891
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 1900
+Task ID: 1 completed at time: 1910
+Task ID: 3 started at time: 1911
+Task ID: 3 missed deadline at time: 1920
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 1920
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 1920
+Task ID: 2 started at time: 1921
+Task ID: 2 completed at time: 1950
+Task ID:2 Process Time: 30 Process Period: 50 Joined at time: 1950
+Task ID: 3 started at time: 1951
+Task ID: 3 completed at time: 1975
+Task ID: 1 started at time: 1976
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 1980
+Task ID: 1 completed at time: 1995
+Task ID: 2 started at time: 1996
+Task ID: 2 missed deadline at time: 2000
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 2000
+Task ID: 3 started at time: 2001
+Task ID: 3 completed at time: 2025
+Task ID: 1 started at time: 2026
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 2040
+Task ID: 1 completed at time: 2045
+Task ID: 3 started at time: 2046
+Task ID: 3 completed at time: 2070
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 2080
+CPU Idle till time: 2080
+Task ID: 1 started at time: 2081
+Task ID: 1 completed at time: 2100
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 2100
+Task ID: 3 started at time: 2101
+Task ID: 3 completed at time: 2125
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 2160
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 2160
+CPU Idle till time: 2160
+Task ID: 3 started at time: 2161
+Task ID: 3 completed at time: 2185
+Task ID: 1 started at time: 2186
+Task ID: 1 completed at time: 2205
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 2220
+CPU Idle till time: 2220
+Task ID: 3 started at time: 2221
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 2240
+Task ID: 3 completed at time: 2245
+Task ID: 1 started at time: 2246
+Task ID: 1 completed at time: 2265
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 2280
+CPU Idle till time: 2280
+Task ID: 3 started at time: 2281
+Task ID: 3 completed at time: 2305
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 2320
+CPU Idle till time: 2320
+Task ID: 1 started at time: 2321
+Task ID: 1 completed at time: 2340
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 2340
+Task ID: 3 started at time: 2341
+Task ID: 3 completed at time: 2365
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 2400
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 2400
+CPU Idle till time: 2400
+Task ID: 3 started at time: 2401
+Task ID: 3 completed at time: 2425
+Task ID: 1 started at time: 2426
+Task ID: 1 completed at time: 2445
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 2460
+CPU Idle till time: 2460
+Task ID: 3 started at time: 2461
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 2480
+Task ID: 3 completed at time: 2485
+Task ID: 1 started at time: 2486
+Task ID: 1 completed at time: 2505
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 2520
+CPU Idle till time: 2520
+Task ID: 3 started at time: 2521
+Task ID: 3 completed at time: 2545
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 2560
+CPU Idle till time: 2560
+Task ID: 1 started at time: 2561
+Task ID: 1 completed at time: 2580
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 2580
+Task ID: 3 started at time: 2581
+Task ID: 3 completed at time: 2605
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 2640
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 2640
+CPU Idle till time: 2640
+Task ID: 3 started at time: 2641
+Task ID: 3 completed at time: 2665
+Task ID: 1 started at time: 2666
+Task ID: 1 completed at time: 2685
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 2700
+CPU Idle till time: 2700
+Task ID: 3 started at time: 2701
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 2720
+Task ID: 3 completed at time: 2725
+Task ID: 1 started at time: 2726
+Task ID: 1 completed at time: 2745
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 2760
+CPU Idle till time: 2760
+Task ID: 3 started at time: 2761
+Task ID: 3 completed at time: 2785
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 2800
+CPU Idle till time: 2800
+Task ID: 1 started at time: 2801
+Task ID: 1 completed at time: 2820
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 2820
+Task ID: 3 started at time: 2821
+Task ID: 3 completed at time: 2845
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 2880
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 2880
+CPU Idle till time: 2880
+Task ID: 3 started at time: 2881
+Task ID: 3 completed at time: 2905
+Task ID: 1 started at time: 2906
+Task ID: 1 completed at time: 2925
+Task ID:3 Process Time: 25 Process Period: 60 Joined at time: 2940
+CPU Idle till time: 2940
+Task ID: 3 started at time: 2941
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 2960
+Task ID: 3 completed at time: 2965
+Task ID: 1 started at time: 2966
+Task ID: 1 completed at time: 2985
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 3040
+CPU Idle till time: 3040
+Task ID: 1 started at time: 3041
+Task ID: 1 completed at time: 3060
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 3120
+CPU Idle till time: 3120
+Task ID: 1 started at time: 3121
+Task ID: 1 completed at time: 3140
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 3200
+CPU Idle till time: 3200
+Task ID: 1 started at time: 3201
+Task ID: 1 completed at time: 3220
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 3280
+CPU Idle till time: 3280
+Task ID: 1 started at time: 3281
+Task ID: 1 completed at time: 3300
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 3360
+CPU Idle till time: 3360
+Task ID: 1 started at time: 3361
+Task ID: 1 completed at time: 3380
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 3440
+CPU Idle till time: 3440
+Task ID: 1 started at time: 3441
+Task ID: 1 completed at time: 3460
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 3520
+CPU Idle till time: 3520
+Task ID: 1 started at time: 3521
+Task ID: 1 completed at time: 3540
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 3600
+CPU Idle till time: 3600
+Task ID: 1 started at time: 3601
+Task ID: 1 completed at time: 3620
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 3680
+CPU Idle till time: 3680
+Task ID: 1 started at time: 3681
+Task ID: 1 completed at time: 3700
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 3760
+CPU Idle till time: 3760
+Task ID: 1 started at time: 3761
+Task ID: 1 completed at time: 3780
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 3840
+CPU Idle till time: 3840
+Task ID: 1 started at time: 3841
+Task ID: 1 completed at time: 3860
+Task ID:1 Process Time: 20 Process Period: 80 Joined at time: 3920
+CPU Idle till time: 3920
+Task ID: 1 started at time: 3921
+Task ID: 1 completed at time: 3940

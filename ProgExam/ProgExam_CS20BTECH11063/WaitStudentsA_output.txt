@@ -1,0 +1,5 @@
+Statistics
+Average Wait Time for Subject 1 Students: 21.5
+Worst Wait Time for Subject 1 Threads: 43
+Average Wait Time for Subject 2 Threads: 44
+Worst Wait Time for Subject 2 Threads: 44

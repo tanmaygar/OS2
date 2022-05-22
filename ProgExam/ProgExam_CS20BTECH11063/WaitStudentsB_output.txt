@@ -1,0 +1,6 @@
+Statistics
+Subject 1: Average Wait Time: 22 Worst Wait Time: 45
+Subject 2: Average Wait Time: 58 Worst Wait Time: 72
+Subject 3: Average Wait Time: 82 Worst Wait Time: 93
+Subject 4: Average Wait Time: 95 Worst Wait Time: 96
+Subject 5: Average Wait Time: 98 Worst Wait Time: 99
